@@ -38,7 +38,7 @@
     "@khanhvan75846/khanhvan75846-contacts": "1.0.0",
     "@phuonganh68142/react-native-colorpicker": "0.0.19",
     "@kimngan816671/react-nativve-authentication": "1.0.0",
-    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "@lananhxcnm130/lananh-async-storage": "0.0.1"
   },
   "devDependencies": {
     "@tensorflow/tfjs-node": "1.7.0",
